@@ -73,3 +73,5 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 Prueba pull requests
+
+mi nombre es alvaro piñeros y voy a practicar la subida de git a git hub
